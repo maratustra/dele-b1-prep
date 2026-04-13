@@ -4,7 +4,30 @@
 
 ---
 
-_Пока пусто — начнём заполнять после первой сессии._
+## Сессия #1 — 2026-04-13
+
+**Тип:** Разбор теста (Test Gramática B1, в классе EOI)
+**Результат:** ~14/30 правильно (~47%)
+**Подробный разбор:** `progress/test-gramatica-2026-04-13.md`
+
+**Категории ошибок (16 штук):**
+- 🔴 grammar/subjuntivo — 3 ошибки (#6, #28, #29)
+- 🔴 grammar/verbs — 5 ошибок (#1, #2, #9, #17, #22)
+- 🟡 grammar/articles — 2 ошибки (#10, #24)
+- 🟡 grammar/prepositions — 2 ошибки (#4, #25)
+- 🟡 grammar/pronouns — 1 ошибка (#7)
+- ⬜ другие — 3 ошибки (#14, #19, #20)
+
+**Ключевые проблемные зоны:**
+- 🔴 Subjuntivo: не использует после preferir que, querer que, imperativo negativo
+- 🔴 Verbos tipo gustar: путает с обычным спряжением (fastidio vs me fastidia)
+- 🔴 Estilo indirecto: не переводит времена (presente → imperfecto)
+- 🟡 Артикли: superlativo без артикля, профессии
+
+**На следующую сессию:**
+- Тренировка subjuntivo: триггеры + формы
+- Verbos tipo gustar: fastidiar, molestar, preocupar
+- Estilo indirecto: таблица смены времён
 
 <!-- Шаблон записи:
 ## Сессия #1 — 2026-04-14
