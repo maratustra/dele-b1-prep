@@ -98,6 +98,50 @@
 **Повторы:** 🔁 0
 **Статус:** ⬜
 
+---
+
+### 2026-04-13 | grammar/subjuntivo | Квиз Subjuntivo — imperativo negativo
+**Ошибка:** *no abres* (indicativo)
+**Правильно:** *no abras*
+**Правило:** Imperativo negativo = форма subjuntivo presente. No abras, no hables, no comas, no salgas. Indicativo — только для утвердительного высказывания, не для запрета.
+**Повторы:** 🔁 1 (аналог #28 от сегодня)
+**Статус:** ⬜
+
+### 2026-04-13 | grammar/subjuntivo | Квиз Subjuntivo — para que
+**Ошибка:** *para que podrás* (indicativo futuro)
+**Правильно:** *para que puedas*
+**Правило:** Para que ВСЕГДА + subjuntivo. Te lo explico para que puedas entenderlo. Никакого futuro или indicativo после para que.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-13 | grammar/subjuntivo | Квиз Subjuntivo — creo que
+**Ошибка:** *creo que fuera* (subjuntivo)
+**Правильно:** *creo que es*
+**Правило:** Creo que / pienso que / me parece que + INDICATIVO (утверждение). Subjuntivo — только при отрицании: NO creo que sea, NO pienso que tenga.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-13 | grammar/subjuntivo | Квиз Subjuntivo — es posible que
+**Ошибка:** *es posible que hace* (indicativo)
+**Правильно:** *es posible que haga*
+**Правило:** Expresiones de duda/posibilidad + subjuntivo: es posible que, es probable que, puede que, quizás (+ subj). Indicativo — только факты.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-13 | grammar/subjuntivo | Квиз Subjuntivo — me parece raro que
+**Правильно:** *me parece raro que haya llamado* (subjuntivo perfecto)
+**Правило:** Expresiones de valoración/emoción + subjuntivo: me parece raro que, es extraño que, me sorprende que. Subjuntivo perfecto (haya + participio) — когда действие уже произошло.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+---
+
+### 2026-04-13 | grammar/verbs | Квиз Estilo indirecto — imperativo → imperfecto subjuntivo
+**Правильно:** *pidió que llamara / dijo que no habláramos / recomendó que tomara*
+**Правило:** Imperativo в прямой речи → imperfecto de subjuntivo в косвенной. "Llama" → pidió que llamara. "No habléis" → dijo que no habláramos. "Toma" → recomendó que tomara. Это обязательное изменение при переводе команд в estilo indirecto.
+**Повторы:** 🔁 1 (аналог #22 — смена времён в estilo indirecto)
+**Статус:** ⬜
+
 <!-- Шаблон записи:
 ### 2026-04-14 | grammar/subjuntivo
 **Ошибка:** *Quiero que vienes conmigo*
