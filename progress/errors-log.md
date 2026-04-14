@@ -142,6 +142,57 @@
 **Повторы:** 🔁 1 (аналог #22 — смена времён в estilo indirecto)
 **Статус:** ⬜
 
+---
+
+### 2026-04-14 | grammar/agreement | Redacción corta — род существительного
+**Ошибка:** *alguna consejo* (или без согласования)
+**Правильно:** *algunos consejos*
+**Правило:** Consejo — мужской род (el consejo, los consejos). Согласование: algunos/unos, не algunas/unas.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-14 | grammar/prepositions | Redacción corta — pasear
+**Ошибка:** *pasear en el parque*
+**Правильно:** *pasear por el parque*
+**Правило:** Движение/перемещение по территории = POR: pasear por el parque, caminar por la ciudad, viajar por España.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-14 | grammar/articles | Redacción corta — contracción del
+**Ошибка:** *antes de el examen*
+**Правильно:** *antes del examen*
+**Правило:** De + el = DEL (обязательное слияние). Al = a + el. Исключение: имена собственные с артиклем El: "vengo de El Cairo" (без слияния).
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-14 | grammar/verbs | Redacción corta — советы другу
+**Ошибка:** использовала indicativo для советов
+**Правильно:** *no olvides, haz, toma* (imperativo)
+**Правило:** Советы другу = imperativo (tú): haz, no olvides, descansa, estudia. Альтернатива: deberías + infinitivo, te recomiendo que + subjuntivo.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-14 | grammar/verbs | Conjugación — futuro 3ª singular
+**Ошибка:** *recibiré / escribiré* (1ª persona)
+**Правильно:** *recibirá / escribirá* (3ª persona)
+**Правило:** Futuro: -é (yo), -ás (tú), -á (él/ella), -emos (nosotros), -éis (vosotros), -án (ellos). Окончание -á = él/ella, не путать с -é (yo).
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-14 | grammar/verbs | Conjugación — imperfecto -ir глаголы
+**Ошибка:** *bebemos* (presente) вместо imperfecto plural
+**Правильно:** *bebíamos*
+**Правило:** Imperfecto глаголов на -er/-ir: -ía, -ías, -ía, -íamos, -íais, -ían. Bebíamos, comíamos, vivíamos. Акцент на í обязателен!
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
+### 2026-04-14 | grammar/verbs | Conjugación — imperfecto 2ª plural (vosotros)
+**Ошибка:** *barría* (3ª singular)
+**Правильно:** *barríais*
+**Правило:** Vosotros в imperfecto: -abais (hablar → hablabais), -íais (barrer → barríais, vivir → vivíais). Не путать с 3ª singular -ía.
+**Повторы:** 🔁 0
+**Статус:** ⬜
+
 <!-- Шаблон записи:
 ### 2026-04-14 | grammar/subjuntivo
 **Ошибка:** *Quiero que vienes conmigo*

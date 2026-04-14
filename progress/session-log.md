@@ -29,6 +29,37 @@
 - Verbos tipo gustar: fastidiar, molestar, preocupar
 - Estilo indirecto: таблица смены времён
 
+---
+
+## Сессия #2 — 2026-04-14
+
+**Длительность:** ~1 час
+**Что делали:**
+1. Разминка — исправление 5 предложений из теста 13.04
+2. Estilo indirecto — квиз + отработка imperativo → subjuntivo imperfecto
+3. Redacción corta (60-80 слов) — письмо другу с советами
+4. Conjugación — таблица 6 глаголов, 5 времён
+
+**Результаты:**
+- ✅ Estilo indirecto: 2/5 → 5/5 (усвоено!)
+- ✅ Redacción: структура верная, неформальный тон верный
+- 🟡 Conjugación: ~70%, две проблемные зоны выявлены
+
+**Что усвоено:**
+- Imperativo → pidió/dijo que + subjuntivo imperfecto (-ara/-iera) ✅
+- al día siguiente вместо mañana в estilo indirecto ✅
+
+**Слабые места:**
+- Conjugación: окончания -er/-ir (bebemos vs bebimos, bebíamos)
+- Conjugación: формы vosotros во всех временах
+- Futuro: путает 1ª и 3ª singular (recibiré vs recibirá)
+
+**Ошибки:** записаны в errors-log.md (7 шт: grammar/agreement, grammar/prepositions, grammar/verbs)
+
+**На следующую сессию:**
+- Отдельная тренировка conjugación: окончания -er/-ir
+- Тренировка форм vosotros во всех временах
+
 <!-- Шаблон записи:
 ## Сессия #1 — 2026-04-14
 
